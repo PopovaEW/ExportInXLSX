@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ListPatient>
+    <AcDecisionId>5082935</AcDecisionId>
+    <DecisionSignatureId>902311</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221003085244_5082935_1943935_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T08:46:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>22-19392</AMBCARDNUM>
+    <paFullName>К... Хадия Газизъяновна</paFullName>
+    <SNILS />
+    <PhysicianName>Ч... Сергей Иванович</PhysicianName>
+    <PrimaryPersonId>100071</PrimaryPersonId>
+    <ACILLPRESENTID>754980</ACILLPRESENTID>
+    <PatientId>1943935</PatientId>
+    <IsGBK>0</IsGBK>
+    <SPATREATMENTDESC />
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083076</AcDecisionId>
+    <DecisionSignatureId>902468</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\8\2022\8_20221003100037_5083076_1943935_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T10:00:00+07:00</DECDATE>
+    <DECISIONTYPEID>9781</DECISIONTYPEID>
+    <AMBCARDNUM>22-19392</AMBCARDNUM>
+    <paFullName>К... Хадия Газизъяновна</paFullName>
+    <SNILS />
+    <PhysicianName>Г... Елена Владимировна</PhysicianName>
+    <SPECNUMBER>М2022-01-19/6282</SPECNUMBER>
+    <SPECDATE>2022-10-03T00:00:00+07:00</SPECDATE>
+    <PrimaryPersonId>100034</PrimaryPersonId>
+    <ACILLPRESENTID>754980</ACILLPRESENTID>
+    <PatientId>1943935</PatientId>
+    <IsGBK>1</IsGBK>
+    <OPERTROUBLES>test@mail.ru</OPERTROUBLES>
+    <SPATREATMENTDESC>Россия, ул. Событий, д. 3, кв. 23</SPATREATMENTDESC>
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083224</AcDecisionId>
+    <DecisionSignatureId>902702</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221003110819_5083224_1946234_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T11:06:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>22-21651</AMBCARDNUM>
+    <paFullName>К... Дмитрий Сергеевич</paFullName>
+    <SNILS />
+    <PhysicianName>К... Виктор Юрьевич</PhysicianName>
+    <SPECNUMBER>М2022-01-19/6280</SPECNUMBER>
+    <SPECDATE>2022-10-03T00:00:00+07:00</SPECDATE>
+    <PrimaryPersonId>100056</PrimaryPersonId>
+    <ACILLPRESENTID>757627</ACILLPRESENTID>
+    <PatientId>1946234</PatientId>
+    <IsGBK>1</IsGBK>
+    <OPERTROUBLES>usova@mail.ru</OPERTROUBLES>
+    <SPATREATMENTDESC>Россия, ул. Рыбацкая, д. 15, кв. 15</SPATREATMENTDESC>
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083257</AcDecisionId>
+    <DecisionSignatureId>902757</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221003112005_5083257_1938003_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T11:18:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>22-13537</AMBCARDNUM>
+    <paFullName>К... Наталья Ивановна</paFullName>
+    <SNILS />
+    <PhysicianName>К... Виктор Юрьевич</PhysicianName>
+    <PrimaryPersonId>100056</PrimaryPersonId>
+    <ACILLPRESENTID>748385</ACILLPRESENTID>
+    <PatientId>1938003</PatientId>
+    <IsGBK>0</IsGBK>
+    <SPATREATMENTDESC />
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083264</AcDecisionId>
+    <DecisionSignatureId>902773</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221003113138_5083264_1946265_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T11:03:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>22-21681</AMBCARDNUM>
+    <paFullName>К... Наталья Александровна</paFullName>
+    <SNILS />
+    <PhysicianName>П... Иван Викторович</PhysicianName>
+    <SPECNUMBER>М2022-01-19/6283</SPECNUMBER>
+    <SPECDATE>2022-10-03T00:00:00+07:00</SPECDATE>
+    <PrimaryPersonId>100042</PrimaryPersonId>
+    <ACILLPRESENTID>757625</ACILLPRESENTID>
+    <PatientId>1946265</PatientId>
+    <IsGBK>1</IsGBK>
+    <OPERTROUBLES>test@gmail.com</OPERTROUBLES>
+    <SPATREATMENTDESC>Россия, Пермская обл, г. Пермь, </SPATREATMENTDESC>
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083332</AcDecisionId>
+    <DecisionSignatureId>902917</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221003120435_5083332_1946163_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T12:01:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>22-21584</AMBCARDNUM>
+    <paFullName>К... Федор Николаевич</paFullName>
+    <SNILS />
+    <PhysicianName>К... Виктор Юрьевич</PhysicianName>
+    <PrimaryPersonId>100056</PrimaryPersonId>
+    <ACILLPRESENTID>757512</ACILLPRESENTID>
+    <PatientId>1946163</PatientId>
+    <IsGBK>0</IsGBK>
+    <SPATREATMENTDESC />
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083424</AcDecisionId>
+    <DecisionSignatureId>903083</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221003130529_5083424_1946242_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T13:01:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>22-21659</AMBCARDNUM>
+    <paFullName>К... Сергей Иванович</paFullName>
+    <SNILS />
+    <PhysicianName>П... Федор Витальевич</PhysicianName>
+    <SPECNUMBER>М2022-01-19/6322</SPECNUMBER>
+    <SPECDATE>2022-10-04T00:00:00+07:00</SPECDATE>
+    <PrimaryPersonId>1895506</PrimaryPersonId>
+    <ACILLPRESENTID>757679</ACILLPRESENTID>
+    <PatientId>1946242</PatientId>
+    <IsGBK>1</IsGBK>
+    <OPERTROUBLES>test@mail.ru</OPERTROUBLES>
+    <SPATREATMENTDESC>Россия, ул. Багратионова, д. 52/2, кв. 6</SPATREATMENTDESC>
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083537</AcDecisionId>
+    <DecisionSignatureId>903215</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221003135628_5083537_1946356_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T13:54:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>22-21772</AMBCARDNUM>
+    <paFullName>К... Любовь Николаевна</paFullName>
+    <SNILS />
+    <PhysicianName>Б... Владислав Сергеевич</PhysicianName>
+    <PrimaryPersonId>100097</PrimaryPersonId>
+    <ACILLPRESENTID>757704</ACILLPRESENTID>
+    <PatientId>1946356</PatientId>
+    <IsGBK>0</IsGBK>
+    <SPATREATMENTDESC />
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083545</AcDecisionId>
+    <DecisionSignatureId>903222</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221003140141_5083545_750533_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T13:59:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>652533</AMBCARDNUM>
+    <paFullName>К... Татьяна Константиновна</paFullName>
+    <SNILS>999-999-999-99</SNILS>
+    <PhysicianName>Б... Владислав Сергеевич</PhysicianName>
+    <PrimaryPersonId>100097</PrimaryPersonId>
+    <ACILLPRESENTID>586197</ACILLPRESENTID>
+    <PatientId>750533</PatientId>
+    <IsGBK>0</IsGBK>
+    <SPATREATMENTDESC />
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083552</AcDecisionId>
+    <DecisionSignatureId>903233</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221003140534_5083552_1946295_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T14:02:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>22-21711</AMBCARDNUM>
+    <paFullName>К... Евдокия Николаевна</paFullName>
+    <SNILS />
+    <PhysicianName>Б... Владислав Сергеевич</PhysicianName>
+    <PrimaryPersonId>100097</PrimaryPersonId>
+    <ACILLPRESENTID>757706</ACILLPRESENTID>
+    <PatientId>1946295</PatientId>
+    <IsGBK>0</IsGBK>
+    <SPATREATMENTDESC />
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083713</AcDecisionId>
+    <DecisionSignatureId>903532</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221010164631_5083713_1945681_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T15:15:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>22-21108</AMBCARDNUM>
+    <paFullName>К... Наталия Олеговна</paFullName>
+    <SNILS />
+    <PhysicianName>П... Александр Александрович</PhysicianName>
+    <SPECNUMBER>М2022-01-19/6551</SPECNUMBER>
+    <SPECDATE>2022-10-12T00:00:00+07:00</SPECDATE>
+    <PrimaryPersonId>787793</PrimaryPersonId>
+    <ACILLPRESENTID>757140</ACILLPRESENTID>
+    <PatientId>1945681</PatientId>
+    <IsGBK>1</IsGBK>
+    <OPERTROUBLES>test@yandex.ru</OPERTROUBLES>
+    <SPATREATMENTDESC>Россия, 662200, Красноярский край, д. 28, кв. 77</SPATREATMENTDESC>
+  </ListPatient>
+  <ListPatient>
+    <AcDecisionId>5083773</AcDecisionId>
+    <DecisionSignatureId>903598</DecisionSignatureId>
+    <NamePdfFile>\\storage\MA_Docs\6\2022\6_20221003155200_5083773_546898_v01.pdf</NamePdfFile>
+    <DECDATE>2022-10-03T15:46:00+07:00</DECDATE>
+    <DECISIONTYPEID>4721</DECISIONTYPEID>
+    <AMBCARDNUM>448898</AMBCARDNUM>
+    <paFullName>К... Надежда Васильевна</paFullName>
+    <SNILS>999-999-999-99</SNILS>
+    <PhysicianName>П... Александр Александрович</PhysicianName>
+    <PrimaryPersonId>787793</PrimaryPersonId>
+    <ACILLPRESENTID>159745</ACILLPRESENTID>
+    <PatientId>546898</PatientId>
+    <IsGBK>0</IsGBK>
+    <SPATREATMENTDESC />
+  </ListPatient>
+</DocumentElement>
